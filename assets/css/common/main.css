@@ -4,10 +4,12 @@
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     padding: var(--gap);
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Noto Sans SC', sans-serif;
 }
 
-.page-header h1 {
-    font-size: 40px;
+code {
+    font-family: Iosevka Web;
 }
 
 .pagination {
