@@ -4,8 +4,11 @@
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     padding: var(--gap);
+    font-family: 'Dosis', 'Noto Sans SC';
+}
+
+.header, .entry-content {
     font-family: 'Dosis', sans-serif;
-    font-family: 'Noto Sans SC', sans-serif;
 }
 
 code {
